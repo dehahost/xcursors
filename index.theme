@@ -1,0 +1,4 @@
+[Icon Theme]
+Name=X11 Core
+Comment=Core X11 cursor theme
+Inherits=core
