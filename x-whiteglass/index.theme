@@ -1,4 +1,4 @@
 [Icon Theme]
-Name=X11 Whiteglass
-Comment=Builtin X11 Whiteglass cursor theme
+Name=X Whiteglass
+Comment=X Whiteglass cursor theme
 Inherits=whiteglass

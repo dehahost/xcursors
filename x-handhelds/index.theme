@@ -1,4 +1,4 @@
 [Icon Theme]
-Name=X11 Handhelds
-Comment=Builtin X11 Handhelds cursor theme
+Name=X Handhelds
+Comment=X Handhelds cursor theme
 Inherits=handhelds
